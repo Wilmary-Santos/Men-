@@ -1,0 +1,96 @@
+Ejercicio 1: Uso Básico de Etiquetas de Formato de Texto:
+
+<!DOCTYPE html>
+<html lang="es"> 
+<head>
+<meta charset="UTF8">
+<meta name="viewport" content="width=device-width" initial-scale="1.0>
+<title>GTR R34</title>     
+</head>
+<body>
+<h1>Nissan Skyline GTR R34<h1>
+<p><main>El <i><b>Nissan GT-R R34</b></i> es uno de los autos más emblemáticos en la historia de los deportivos japoneses. Fue producido entre 1999 y 2002, como parte de la quinta generación de la serie <b><u>Nissan Skyline GT-R</u></b>, y se convirtió en un ícono de la cultura automovilística, especialmente por su desempeño, tecnología avanzada y su aparición en la saga de películas "Rápido y Furioso". A continuación, te hablo un poco más sobre sus características y legado.</main></p>
+<p>Este tipo de formato se puede utilizar para hacer referencias a ciertas palabras y/o dar importancia.</p>
+<figure><img src="imagenes/Captura.PNG" width="400" height="300" title="R34"></figure>
+<h2>Año del vehiculo</h2>
+<p>El Skyline GT-R R34 se introdujo en 1998 y estuvo disponible desde 1998 hasta 2002.</p>
+<h3><b>Características Técnicas Principales:</b></h3>
+<ul>
+   <li>
+</body>
+</html>
+Parte 2:Ejercicio 1: Enlaces a Páginas Externas
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF8">
+<meta name="viewport" content="width=device-width" initial-scale="1.0>
+<title>Enlaces a páginas externas</title>
+</head>
+<body>
+<h1><b>Legado y Cultura Popular del GTR R34</b></h1>
+<p><main>El Nissan GT-R R34 alcanzó un estatus legendario, en parte debido a su aparición en la saga de películas "Rápido y Furioso". En la película, el auto de Paul Walker, el famoso "Brian O'Conner", es un R34 azul con detalles personalizados, lo que contribuyó a su fama mundial. Además, el R34 se ganó la reputación de ser un "monster tuning" debido a su gran capacidad para ser modificado y tunear. Muchos entusiastas de los autos han llevado este modelo a nuevas alturas de potencia y rendimiento, lo que ha mantenido vivo su legado en el mundo del automovilismo y el tuning.</main></p>
+<ul>
+   <li><p><a href="https://www.flexicar.es/nissan-gtr-r34/noticias-coches/" target="=_blank">GTR R34</a></p></li>
+   <li><p><a href="https://www.autobild.es/noticias/inolvidable-skyline-r34-gt-r-273279" target="=_blank">El complicado nacimiento</a></p></li>
+   <li><p><a href="https://es.wikipedia.org/wiki/Nissan_Skyline_(R34)" target="=_blank">Breve referencia a la historia</a></p></li>
+</ul>
+</body>
+</html>
+Ejercicio 2: Navegación Interna en un Documento
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF8">
+<meta name="viewport" content="width=device-width" initial-scale="1.0>
+<title>R34</title>
+</head>
+<body>
+<h1>Valor en el Mercado</h1>
+<p><main>El Nissan GT-R R34 es ahora un coche de colección, y debido a su estatus icónico y su rareza (especialmente fuera de Japón), los precios de los modelos en buen estado han aumentado significativamente. Los fanáticos del R34 están dispuestos a pagar grandes sumas por este auto, especialmente aquellos que están en condiciones originales o con modificaciones de alto rendimiento.</main></p>
+<!--Para navegar dentro de la misma página-->
+<h2>Post 1-6</h2>
+<nav>
+<p><a href="#post-1">Post 1</a></p>
+<p><a href="#post-2">Post 2</a></p>
+<p><a href="#post-3">Post 3</a></p>
+<p><a href="#post-4">Post 4</a></p>
+<p><a href="#post-5">Post 5</a></p>
+</nav>
+<!--Para descargar documentos-->
+<a href="imagenes/computadora1.jpg"download>Descargar</a>
+</body>
+</html>
+
+Parte 3: Ejercicio 1: Galería de Imágenes Simple
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF8">
+<meta name="viewport" content="width=device-width" initial-scale="1.0>
+<title>R34</title>
+</head>
+<body>
+<ul class="gallery">
+<li class="gallery-item"><img src="https://https://es.wikipedia.org/wiki/Archivo:NISSAN_R34-Skyline_GTR.jpg" alt="Imagen 1"></li>
+<li class="gallery-item"><img src="https://https://images.app.goo.gl/mNjzbyHg87TizXyn6" alt="Imagen 2"></li>
+<li class="gallery-item"><img src="https://https://images.app.goo.gl/sZhZEhDTLY4EEk9b6" alt="Imagen 3"></li>
+<li class="gallery-item"><img src="https://https://images.app.goo.gl/4qWQcUR7WUZapoTq7" alt="Imagen 4"></li>
+</ul>
+
+
+<nav>
+<p><a href="#">Inicio</a></p>
+<p><a href="#">Acerca de nosotros</a></p>
+<p><a href="#">Servicios</a></p>
+<p><a href="#">Contacto</a></p>
+<article>
+<h3 id="#">Inicio</h3>
+<h3 id="#">Acerca de nosotros</h3>
+<h3 id="#">Inicio</h3>
+</nav>
+
+
+
+</body>
+</html>
